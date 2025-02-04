@@ -1,1 +1,2 @@
 # Cloud-Security-Simulation-Implementing-Network-Access-Control-with-UFW-Firewall
+Simulated cloud security concepts on a local Linux system using UFW to implement network access control, restrict unauthorized access, and enhance security. Applied cloud security principles by configuring firewall rules, logging activity, and preventing brute-force attacks. Strengthened system protection through advanced hardening techniques, aligning with security best practices in cloud environments like AWS, Azure, and Google Cloud.
